@@ -1,10 +1,10 @@
+dev plan : 
+---------
 npm init 
 
 npm i
 
 npm run build
 
-------------------
-.temp/db
-
-dev = postman req
+---------
+postman file collection : dev/New Collection.postman
